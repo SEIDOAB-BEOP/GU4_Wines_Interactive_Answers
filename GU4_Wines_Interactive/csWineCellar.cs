@@ -10,6 +10,8 @@ namespace _05_Wines_Interfaces
         public void Add(IWine wine) => _wines.Add(wine);
         public int Count => _wines.Count;
         public IWine this[int idx] => _wines[idx];
+
+        public void Clear() => _wines.Clear();
  
         public decimal Value
         {
