@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU4_Wines_Interactive", "GU4_Wines_Interactive\GU4_Wines_Interactive.csproj", "{7CFA36DF-001B-4C9A-AA97-C5E1D8C01629}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{C6CE7B3E-93C2-42EA-BF5A-53010B5AC584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CFA36DF-001B-4C9A-AA97-C5E1D8C01629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFA36DF-001B-4C9A-AA97-C5E1D8C01629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFA36DF-001B-4C9A-AA97-C5E1D8C01629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFA36DF-001B-4C9A-AA97-C5E1D8C01629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6CE7B3E-93C2-42EA-BF5A-53010B5AC584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CE7B3E-93C2-42EA-BF5A-53010B5AC584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CE7B3E-93C2-42EA-BF5A-53010B5AC584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CE7B3E-93C2-42EA-BF5A-53010B5AC584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A831AE3-D1DF-43EC-B89A-D6944D06AB9E}
+	EndGlobalSection
+EndGlobal
